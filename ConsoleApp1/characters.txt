@@ -1,0 +1,5 @@
+Name:Gandalf;Race:Maiar;Class:Wizard;Level:20;HealthPoints:100;ManaPoints:250
+Name:Thorin;Race:Dwarf;Class:Warrior;Level:15;HealthPoints:120;ManaPoints:30
+Name:Galadriel;Race:Elf;Class:Sorcerer;Level:20;HealthPoints:80;ManaPoints:300
+Name:Boromir;Race:Human;Class:Knight;Level:12;HealthPoints:150;ManaPoints:20
+Name:Eowyn;Race:Human;Class:Paladin;Level:10;HealthPoints:130;ManaPoints:40
